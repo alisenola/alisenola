@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)](https://favourryan.netlify.app)
-<h1 align="center">Hi 👋, I'm Quan Doan</h1>
+<h1 align="center">Hi 👋, I'm Ali Senol</h1>
 
 I'm a software engineer with a fire in my belly and a knack for getting things done. I lead the charge in crafting amazing user experiences from the ground up. 
 <br>
@@ -187,14 +187,14 @@ New challenges keep me energized, and I'm always ready to tackle them head-on.
 
 <h1 align="center">⚡ Github Stats</h1>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xbucks&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xbucks&theme=algolia) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alisenola&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alisenola&theme=algolia) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=xbucks&theme=vue-dark" alt="xbucks Streak" />                                           |  <img width="450em" align="center" alt="xbucks's Github stats"  src="https://github-readme-stats.vercel.app/api?username=xbucks&show_icons=true&count_private=true&theme=vue-dark" />   |
+|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=alisenola&theme=vue-dark" alt="alisenola Streak" />                                           |  <img width="450em" align="center" alt="alisenola's Github stats"  src="https://github-readme-stats.vercel.app/api?username=alisenola&show_icons=true&count_private=true&theme=vue-dark" />   |
 
 <br/>
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20know,%20is%20to%20know%20that%20you%20know%20nothing.%20Nothing%20but%20the%20art%20of%20self-ignorance.&author=He%20who%20embraced%20his%20own%20ignorance" /> </p>
 
-<h1 align="center"><img src="https://komarev.com/ghpvc/?username=xbucks" /></h1>
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=alisenola" /></h1>
 
 
 
